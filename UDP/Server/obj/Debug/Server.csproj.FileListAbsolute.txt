@@ -1,0 +1,14 @@
+C:\Users\JJ\source\repos\UDP\Server\bin\Debug\Server.exe.config
+C:\Users\JJ\source\repos\UDP\Server\bin\Debug\Server.exe
+C:\Users\JJ\source\repos\UDP\Server\bin\Debug\Server.pdb
+C:\Users\JJ\source\repos\UDP\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\JJ\source\repos\UDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\UDP\Server\obj\Debug\Server.exe
+C:\Users\JJ\source\repos\UDP\Server\obj\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\bin\Debug\Server.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\bin\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\bin\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\obj\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\obj\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Server\obj\Debug\Server.csprojAssemblyReference.cache

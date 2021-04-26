@@ -1,0 +1,13 @@
+C:\Users\JJ\source\repos\UDP\Client\bin\Debug\Client.exe.config
+C:\Users\JJ\source\repos\UDP\Client\bin\Debug\Client.exe
+C:\Users\JJ\source\repos\UDP\Client\bin\Debug\Client.pdb
+C:\Users\JJ\source\repos\UDP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\JJ\source\repos\UDP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\UDP\Client\obj\Debug\Client.exe
+C:\Users\JJ\source\repos\UDP\Client\obj\Debug\Client.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\bin\Debug\Client.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\bin\Debug\Client.exe
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\bin\Debug\Client.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\obj\Debug\Client.exe
+C:\Users\3000v\OneDrive\Рабочий стол\UDP\Client\obj\Debug\Client.pdb
