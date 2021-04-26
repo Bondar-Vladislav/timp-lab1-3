@@ -1,0 +1,7 @@
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\bin\Debug\Server.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\bin\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\bin\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\obj\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\obj\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Server\obj\Debug\Server.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\bin\Debug\Client.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\bin\Debug\Client.exe
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\bin\Debug\Client.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\obj\Debug\Client.exe
+C:\Users\3000v\OneDrive\Рабочий стол\NamedPipes\Client\obj\Debug\Client.pdb
