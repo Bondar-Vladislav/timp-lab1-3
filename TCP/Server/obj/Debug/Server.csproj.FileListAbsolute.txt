@@ -1,0 +1,39 @@
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.exe.config
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.exe
+C:\Users\JJ\source\repos\TCP\Server\bin\Debug\Server.pdb
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.exe
+C:\Users\JJ\source\repos\TCP\Server\obj\Debug\Server.pdb
+C:\Labs\ЛР 1\Server\bin\Debug\Server.exe.config
+C:\Labs\ЛР 1\Server\bin\Debug\Server.exe
+C:\Labs\ЛР 1\Server\bin\Debug\Server.pdb
+C:\Labs\ЛР 1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Labs\ЛР 1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Labs\ЛР 1\Server\obj\Debug\Server.exe
+C:\Labs\ЛР 1\Server\obj\Debug\Server.pdb
+C:\MVS\TCP\Server\bin\Debug\Server.exe.config
+C:\MVS\TCP\Server\bin\Debug\Server.exe
+C:\MVS\TCP\Server\bin\Debug\Server.pdb
+C:\MVS\TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\TCP\Server\obj\Debug\Server.exe
+C:\MVS\TCP\Server\obj\Debug\Server.pdb
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.exe.config
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.exe
+C:\MVS\TCP - без winapi\Server\bin\Debug\Server.pdb
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.exe
+C:\MVS\TCP - без winapi\Server\obj\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\bin\Debug\Server.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\bin\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\bin\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\obj\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\TCP - без winapi\Server\obj\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\bin\Debug\Server.exe.config
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\bin\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\bin\Debug\Server.pdb
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\obj\Debug\Server.exe
+C:\Users\3000v\OneDrive\Рабочий стол\TCP\Server\obj\Debug\Server.pdb
